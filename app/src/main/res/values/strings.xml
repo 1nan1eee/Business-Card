@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Business Card</string>
     <string name="nameText">Вяльмискина Марина Васильевна</string>
-    <string name="professionText">Junior-разработчик</string>
+    <string name="professionText">Студент, Junior-разработчик</string>
     <string name="phoneNumberText">+7 (950) 177 0288</string>
     <string name="telegramUsernameText">\@kenjikoutarou</string>
     <string name="emailText">maryfairy\@bk.ru</string>
